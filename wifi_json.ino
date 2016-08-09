@@ -5,9 +5,6 @@
 const char* ssid     = "md-dmz";
 const char* password = "***";
 
-//const char* host = "data.sparkfun.com";
-//const char* streamId   = "WGg4vXOKj7fbKRoGmpb7";
-//const char* privateKey = "XR6qen2YM4H74pq0WY7e";
 const char* host = "api.openweathermap.org";
 const char* weatherKey = "770899aed214da5d7393ad92f4c7bce7";
 const char* cityID = "4352539";
