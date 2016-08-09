@@ -3,7 +3,7 @@
 
 
 const char* ssid     = "md-dmz";
-const char* password = "catalyst!NMD1";
+const char* password = "***";
 
 //const char* host = "data.sparkfun.com";
 //const char* streamId   = "WGg4vXOKj7fbKRoGmpb7";
